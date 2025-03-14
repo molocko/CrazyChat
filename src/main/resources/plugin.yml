@@ -1,0 +1,23 @@
+main: io.BM.Main
+name: CrazyChat
+version: 0.2
+description: just beauty chat 0-0
+api-version: '1.20'
+
+commands:
+  cc:
+    description: just beauty chat
+
+  hi:
+    description: hi
+#  msg:
+#    description: private message
+#  tell:
+#    description: private message
+#  w:
+#    description: private message
+#  m:
+#    description: private message
+
+
+

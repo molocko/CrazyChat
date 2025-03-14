@@ -1,0 +1,17 @@
+# %message% - сообщение, отправленное игркоом
+# %player% - имя игрока, отправителя сообщения
+# "&5G |&r %player% &5:: !&r %message%" - дефолт
+globalFormat: "&5G |&r %player% &5:: !&r %message%"
+
+
+whisperFormat: ""
+
+# %player% поддерживается
+joinMSGFormat: "&a[+] %player%"
+leaveMSGFormat: "&c[-] %player%"
+
+
+# щщ, еще не время..
+localFormat: "&bL |&r %player% &b:: %message%"
+# щщ, еще не время..
+localRadius: 40
